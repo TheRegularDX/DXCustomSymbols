@@ -1,5 +1,5 @@
 # DXCustomSymbols
-a bunch of random custom symbols i made for KiCad, including my DX boards like the DX32A
+a bunch of random custom symbols and footprints i made for KiCad, including my DX boards like the DX32A
 
 ### List of items:
 - DX32A DELUXE

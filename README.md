@@ -3,5 +3,5 @@ a bunch of random custom symbols i made for KiCad, including my DX boards like t
 
 ### List of items:
 - DX32A DELUXE
-- SSH1306 0.96" OLED (coming soon)
-- Generic BME280 (coming soon)
+- SSH1306 0.96" OLED 
+- Generic BME280 

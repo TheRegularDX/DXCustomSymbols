@@ -1,5 +1,5 @@
 # DXCustomSymbols
-custom symbols for KiCad, including DX boards
+a bunch of random custom symbols i made for KiCad, including my DX boards like the DX32A
 
 ### List of items:
 - DX32A DELUXE
